@@ -1,6 +1,6 @@
 # Hydroponic Lettuce Disease Classification
 
-This repository contains the source code for training and evaluating a deep learning model to classify diseases in hydroponic lettuce.
+training and evaluating a deep learning model to classify diseases in hydroponic lettuce.
 
 ## Architecture
 
